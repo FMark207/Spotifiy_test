@@ -1,7 +1,7 @@
 import albumCover from "../covers/test.png"
 import styles from "./Song.module.css"
 
-function Song() {
+function Song(song) {
     return (
         <div className={styles.songContainer}>
             <img src={albumCover} />

@@ -2,9 +2,29 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #323232;
+    gap: 75px   ;
+    padding: 5px;
+    user-select: none;
 }
 
 img{
     width: 50px;
     height: 50px;
+}
+
+.songName{
+    color: #f3f3f3;
+}
+
+.songArtist{
+    color: #c2c2c2;
+}
+
+.songAlbum{
+    color: #f3f3f3;
+}
+
+.songLength{
+    color: #c2c2c2;
 }
