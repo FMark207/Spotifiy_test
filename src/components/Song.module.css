@@ -1,5 +1,6 @@
 .songContainer{
-    display: flex;
+    display:grid;
+    grid-template-columns: repeat(5, 1fr);
     align-items: center;
     justify-content: space-between;
     gap: 125px   ;
@@ -8,7 +9,10 @@
     user-select: none;
     cursor: pointer;
     border-top: #1f1f1f 3px solid;
-
+    margin: auto;
+    max-width: 1000px;
+    padding: 0px 20px;
+    height: 100px;
 }
 
 img{

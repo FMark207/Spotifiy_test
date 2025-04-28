@@ -1,14 +1,12 @@
-import styles from "./Song.module.css"
-import asd from "../covers/LevonFJames.png"
+import styles from "./Song.module.css";
 
 function Song(props) {
-    
     const str = props.album;
     const modifiedStr = str.replace(/ /g, 'F');
 
     return (
         <div className={styles.songContainer} onClick={props.onClick}>
-            <img src={`/src/covers/${modifiedStr}.png`}/>
+            <img src={`/src/covers/${modifiedStr}.png`} alt={props.album} />
             <p className={styles.songName} style={{ color: props.active ? "#1DD05D" : "#f3f3f3" }}>
                 {props.name}
             </p>
@@ -22,7 +20,7 @@ function Song(props) {
                 {props.length}
             </p>
         </div>
-    )
+    );
 }
 
-export default Song
+export default Song;
