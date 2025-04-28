@@ -1,9 +1,9 @@
 .songContainer{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    gap: 125px   ;
     background-color: #323232;
-    gap: 75px   ;
     padding: 5px;
     user-select: none;
     cursor: pointer;
@@ -30,4 +30,8 @@ img{
 
 .songLength{
     color: #c2c2c2;
+}
+
+.songName,.songArtist,.songAlbum,.songLength{
+    transition: ease-in-out 0.2s;
 }
