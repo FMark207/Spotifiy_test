@@ -6,54 +6,75 @@
           {
             "title": "Took Her To The O",
             "album": "Levon James",
-            "duration": "3:12"
+            "duration": "3:12",
+            "image": "https://example.com/images/took_her_to_the_o.jpg",
+            "filename": "took_her_to_the_o.mp3"
           },
           {
             "title": "Crazy Story",
             "album": "Grandson, Vol. 1",
-            "duration": "2:22"
+            "duration": "2:22",
+            "image": "https://example.com/images/crazy_story.jpg",
+            "filename": "crazy_story.mp3"
           },
           {
             "title": "How It Go",
             "album": "Welcome to O'Block",
-            "duration": "3:30"
+            "duration": "3:30",
+            "image": "https://example.com/images/how_it_go.jpg",
+            "filename": "how_it_go.mp3"
           },
           {
             "title": "Grandson for President",
             "album": "Grandson for President - Single",
-            "duration": "2:06"
+            "duration": "2:06",
+            "image": "https://example.com/images/grandson_for_president.jpg",
+            "filename": "grandson_for_president.mp3"
           },
           {
             "title": "Why He Told",
             "album": "Welcome to O'Block",
-            "duration": "3:00"
+            "duration": "3:00",
+            "image": "https://example.com/images/why_he_told.jpg",
+            "filename": "why_he_told.mp3"
           },
           {
             "title": "3 A.M.",
             "album": "Levon James",
-            "duration": "2:48"
+            "duration": "2:48",
+            "image": "https://example.com/images/3am.jpg",
+            "filename": "3am.mp3"
           },
           {
             "title": "Armed & Dangerous",
             "album": "Welcome to O'Block",
-            "duration": "2:03"
+            "duration": "2:03",
+            "image": "https://example.com/images/armed_and_dangerous.jpg",
+            "filename": "armed_and_dangerous.mp3"
           },
           {
             "title": "All These Niggas (feat. Lil Durk)",
             "album": "Welcome to O'Block",
-            "duration": "2:58"
+            "duration": "2:58",
+            "image": "https://example.com/images/all_these_niggas.jpg",
+            "filename": "all_these_niggas.mp3"
           },
           {
             "title": "The Code (feat. Polo G)",
             "album": "Welcome to O'Block",
-            "duration": "2:51"
+            "duration": "2:51",
+            "image": "https://example.com/images/the_code.jpg",
+            "filename": "the_code.mp3"
           },
           {
             "title": "Wayne's Story",
             "album": "Welcome to O'Block",
-            "duration": "3:22"
+            "duration": "3:22",
+            "image": "https://example.com/images/waynes_story.jpg",
+            "filename": "waynes_story.mp3"
           }
         ]
       }
     ]
   }
+  
