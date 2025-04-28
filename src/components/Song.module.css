@@ -6,6 +6,9 @@
     gap: 75px   ;
     padding: 5px;
     user-select: none;
+    cursor: pointer;
+    border-top: #1f1f1f 3px solid;
+
 }
 
 img{
